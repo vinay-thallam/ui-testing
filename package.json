@@ -1,0 +1,14 @@
+{
+  "name": "ui-testing",
+  "version": "1.0.0",
+  "description": "playground to learn ui testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vinay.thallam <vinay.rgit@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
