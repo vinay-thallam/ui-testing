@@ -1,0 +1,5 @@
+kentcdodds' testingjavascript.com lessons' code are in the order below,
+
+Module 1 : Fundamentals of Testing in JavaScript
+https://github.com/kentcdodds/js-testing-fundamentals
+
